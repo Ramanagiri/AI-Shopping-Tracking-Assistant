@@ -173,7 +173,7 @@ Pull requests are welcome! Feel free to fork and improve the project.
 For queries or collaboration:
 
 * Email: [ramanagiria@gmil.com](mailto:ramanagiria@gmil.com)
-* GitHub: ramanagiri
+* GitHub: Ramanagiri
 
 ---
 
